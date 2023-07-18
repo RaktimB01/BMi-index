@@ -1,1 +1,1 @@
-#EDA using Python libraries such as numpy, pandas, matplotlib, wordcloud
+#EDA using Python libraries numpy, pandas, matplotlib, seaborn, wordcloud
